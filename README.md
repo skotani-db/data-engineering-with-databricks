@@ -31,7 +31,7 @@ Databricks Academyでは、従来から2番目の方法で配布していまし�
 1. Databricksで、 左のペインにある **Repos** アイコン![](https://github.com/shotaroktn-db/data-engineering-with-databricks/blob/main/images/repos-icon.png)をクリック
 1. デフォルトで */Repos/* 配下にあるユーザー個別のフォルダへ移動します
 1.  **Add Repo** ボタンをクリックします<br/>
-![](https://github.com/shotaroktn-db/data-engineering-with-databricks/blob/main/images/add-repo.png)
+![](https://github.com/skotani-db/data-engineering-with-databricks/blob/753dc9d03532fc8cee87081310bef6824552d135/imagesadd-repo.png)
 1. 
    **Add Repo** のダイアログボックスで:
    1.  **Clone remote Git repo** を選択
