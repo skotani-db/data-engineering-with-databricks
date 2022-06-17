@@ -2,6 +2,8 @@
 
 このリポジトリには、様々なラボとその解答に加え、このコースを教える講師に学生がついて行くために必要なリソースが含まれています。
 
+コンテンツにはオリジナルの英語版と翻訳された<a href="[https://docs.databricks.com/repos.html](https://github.com/skotani-db/data-engineering-with-databricks/tree/published/Data-Engineering-with-Databricks-Japanese)" target="_blank">日本語版</a>が同梱されています。
+
 開始するには2つの方法があります（Databricks Reposを使用する方法と使用しない方法）。講師は、あなたがいつ、どちらの手順を使うべきかを指示します。
 
 便宜上、両方の手順を文書化しています。
