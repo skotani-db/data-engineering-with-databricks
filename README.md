@@ -26,12 +26,12 @@ Databricks Academyでは、従来から2番目の方法で配布していまし�
    1.  **HTTPS** オプションを選択
    1.  **Copy** アイコンをクリックして、リポジトリのURLをクリップボードへコピーします<br/>
    
-   ![](https://github.com/shotaroktn-db/data-engineering-with-databricks-ja/blob/main/images/copy-url.png)
+   ![](https://github.com/shotaroktn-db/data-engineering-with-databricks/blob/main/images/copy-url.png)
 
-1. Databricksで、 左のペインにある **Repos** アイコン![](https://github.com/shotaroktn-db/data-engineering-with-databricks-ja/blob/main/images/repos-icon.png)をクリック
+1. Databricksで、 左のペインにある **Repos** アイコン![](https://github.com/shotaroktn-db/data-engineering-with-databricks/blob/main/images/repos-icon.png)をクリック
 1. デフォルトで */Repos/* 配下にあるユーザー個別のフォルダへ移動します
 1.  **Add Repo** ボタンをクリックします<br/>
-![](https://github.com/shotaroktn-db/data-engineering-with-databricks-ja/blob/main/images/add-repo.png)
+![](https://github.com/shotaroktn-db/data-engineering-with-databricks/blob/main/images/add-repo.png)
 1. 
    **Add Repo** のダイアログボックスで:
    1.  **Clone remote Git repo** を選択
@@ -44,19 +44,19 @@ Databricks Academyでは、従来から2番目の方法で配布していまし�
 
 # DBCファイルで始める (Databricks Reposを使わない)
 1. GitHubで右側のペインにある **Releases** の下、 **Latest** リンクをクリックする<br/>
-![](https://github.com/shotaroktn-db/data-engineering-with-databricks-ja/blob/main/images/latest.png)
+![](https://github.com/shotaroktn-db/data-engineering-with-databricks/blob/main/images/latest.png)
 2.  **Assets** の下でDBCファイルのリンクを探します<br/>
-![](https://github.com/shotaroktn-db/data-engineering-with-databricks-ja/blob/main/images/dbc.png)
+![](https://github.com/shotaroktn-db/data-engineering-with-databricks/blob/main/images/dbc.png)
 4. DBCファイルのリンクを右クリックして、ロケーションのリンクをコピーします(このファイルをダウンロードする必要はありません)<br/>
-![](https://github.com/shotaroktn-db/data-engineering-with-databricks-ja/blob/main/images/clone.png)
-4. Databricksに戻って、 **Workspace** アイコン![](https://github.com/shotaroktn-db/data-engineering-with-databricks-ja/blob/main/images/workspace.png)をクリック 
+![](https://github.com/shotaroktn-db/data-engineering-with-databricks/blob/main/images/clone.png)
+4. Databricksに戻って、 **Workspace** アイコン![](https://github.com/shotaroktn-db/data-engineering-with-databricks/blob/main/images/workspace.png)をクリック 
 5. 左のナビゲーションペインから出てきた**Workspace** の右上,  **Home** ボタンをクリックしてユーザーのホームフォルダを開きます<br/> **/Users/student@example.com** のように　**/Users/your-email-address** のフォルダが開かれるはずです
 6. あなたのemailアドレスのスイムレーンで、逆V字のマークをクリックして **Import** を選びます<br/>
-![](https://github.com/shotaroktn-db/data-engineering-with-databricks-ja/blob/main/images/import.png)<br/>
+![](https://github.com/shotaroktn-db/data-engineering-with-databricks/blob/main/images/import.png)<br/>
    **Import Notebooks** ダイアログで
    1.  **URL** を選択
    2. 上のStep3でコピーしたURLを貼り付け
    3.  **Import** をクリック<br/>
-![](https://github.com/shotaroktn-db/data-engineering-with-databricks-ja/blob/main/images/import-notebook.png)
+![](https://github.com/shotaroktn-db/data-engineering-with-databricks/blob/main/images/import-notebook.png)
 8. 一度インポートが完了したら、コースのnotebookを見るために新しくできたフォルダを選択します
 9. どのnotebookから始めるかはコースやインストラクター次第です
