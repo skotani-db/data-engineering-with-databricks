@@ -3,6 +3,7 @@
 このリポジトリには、様々なラボとその解答に加え、このコースを教える講師に学生がついて行くために必要なリソースが含まれています。
 
 コンテンツにはオリジナルの英語版と翻訳された<a href="https://github.com/skotani-db/data-engineering-with-databricks/tree/published/Data-Engineering-with-Databricks-Japanese" target="_blank">日本語版</a>が同梱されています。
+(Certification対策として<a href="https://files.training.databricks.com/assessments/practice-exams/PracticeExam-DataEngineerAssociate.pdf?_gl=1*8qp3jt*_gcl_aw*R0NMLjE2NTU0NDY1NzguQ2p3S0NBandxYXVWQmhCR0Vpd0FYT2Vwa2FSUS1aM3JhaFFLZjIzbnZRVkFIQ09BN2lNN2IxeWI2OHZfMENscVoybXJ0aGJUM050NVJob0Nia0lRQXZEX0J3RQ..&_ga=2.124141132.751626712.1655681704-652248607.1649050521&_gac=1.91898600.1655446579.CjwKCAjwqauVBhBGEiwAXOepkaRQ-Z3rahQKf23nvQVAHCOA7iM7b1yb68v_0ClqZ2mrthbT3Nt5RhoCbkIQAvD_BwE" target="_blank">サンプル問題</a>が公開されています)
 
 開始するには2つの方法があります（Databricks Reposを使用する方法と使用しない方法）。講師は、あなたがいつ、どちらの手順を使うべきかを指示します。
 
